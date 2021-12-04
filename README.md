@@ -1,4 +1,4 @@
-# TITLE: need something good here
+## TITLE: need something good here
  
 ## About Us
 Adam Bunce - https://github.com/adam-bunce <br>
@@ -22,3 +22,18 @@ creation of graphs will reserved to your technical report.
 - You should conclude your report.
   - In the discussion, you are presenting the findings. In the conclusion you will 
 summarize what was discussed. To help you structure your conclusion:
+  - You should have a “Reflection” (list things you learned as you worked on 
+the project) and “Refinement” (if you were to improve the project, what 
+would be the next steps) subsection in the conclusion.
+
+## Acknowledgements
+-  You should add an acknowledgements section
+   - “This project was submitted as the final course project for CSCI 2000U “Scientific 
+Data Analysis” during Fall 2021. The authors certify that the work in this 
+repository is original and that all appropriate resources are rightfully cited.”
+
+
+# readme
+At the end, you should have a “traditional” readme section
+- This will outline any instructions needed to run and reproduce your results.
+just run the notebook idk
