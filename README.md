@@ -1,11 +1,12 @@
-## TITLE: need something good here
- 
+## What Drives Student Success In Math and Portuguese Language Courses
+
 ## About Us
-Adam Bunce - https://github.com/adam-bunce <br>
-Addison Tung  - need git link <br>
+Adam Bunce          -   [adam-bunce](https://github.com/adam-bunce)<br>
+Addison Tung  - [Elucris]( https://github.com/Elucris) <br>
 Santhosh Chelvaranjan - need git link <br>
 
 ## Introduction
+Hello reader, everone has an idea of what makes a successful student; 
 - You should introduce the topic you are reporting one.
 - You should describe the dataset(s) including giving credit to their sources.
 - Depending on your writing style, you may or may not add personal anecdotes to make 
