@@ -1,9 +1,9 @@
 ## What Drives Student Success In Math and Portuguese Language Courses
 
 ## About Us
-Adam Bunce            - [adam-bunce](https://github.com/adam-bunce)<br>
-Addison Tung          - [Elucris]( https://github.com/Elucris) <br>
-Santhosh Chelvaranjan - need git link <br>
+Adam Bunce     &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - [adam-bunce](https://github.com/adam-bunce)<br>
+Addison Tung  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; - [Elucris]( https://github.com/Elucris) <br>
+Santhosh Chelvaranjan &nbsp; - [SanthoshC8]( https://github.com/SanthoshC8)<br>
 
 
 ## Introduction
