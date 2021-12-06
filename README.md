@@ -1,9 +1,10 @@
 ## What Drives Student Success In Math and Portuguese Language Courses
-
+<pre>
 ## About Us
-Adam Bunce          -   [adam-bunce](https://github.com/adam-bunce)<br>
-Addison Tung  - [Elucris]( https://github.com/Elucris) <br>
+Adam Bunce            - [adam-bunce](https://github.com/adam-bunce)<br>
+Addison Tung          - [Elucris]( https://github.com/Elucris) <br>
 Santhosh Chelvaranjan - need git link <br>
+</pre>
 
 ## Introduction
 Hello reader, everone has an idea of what makes a successful student; 
