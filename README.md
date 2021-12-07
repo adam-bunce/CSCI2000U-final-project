@@ -7,7 +7,7 @@ Santhosh Chelvaranjan &nbsp; - [SanthoshC8]( https://github.com/SanthoshC8)<br>
 
 
 ## Introduction
-What makes a student successful? Is it how long they study? How frequently do they skip school? Or is it just based on how naturally gifted they are. To answer these questions, we used a [Kaggle Dataset](https://www.kaggle.com/uciml/student-alcohol-consumption) that consists of 395 secondary student's scores in math and Portuguese language courses obtained through a survey. Along with this we are given information about the student's; age, sex, internet access, drinking habits, family situation, study habits and several other features.     
+What makes a student successful? Is it how long they study? How frequently do they skip school? Or is it just based on how naturally gifted they are. To answer these questions, we used a [Kaggle Dataset](https://www.kaggle.com/uciml/student-alcohol-consumption) that consists of 395 secondary student's scores in math and 649 secondary student scores Portuguese language courses obtained through a survey. Along with this we are given information about the student's; age, sex, internet access, drinking habits, family situation, study habits and several other features.     
 
 
 
