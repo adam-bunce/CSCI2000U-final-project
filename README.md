@@ -7,11 +7,8 @@ Santhosh Chelvaranjan &nbsp; - [SanthoshC8]( https://github.com/SanthoshC8)<br>
 
 
 ## Introduction
-Hello reader, everone has an idea of what makes a successful student; 
-- You should introduce the topic you are reporting one.
-- You should describe the dataset(s) including giving credit to their sources.
-- Depending on your writing style, you may or may not add personal anecdotes to make 
-the reading more relatable, or motivate readers to continue reading.
+What makes a student successful? Is it how long they study? How frequently do they skip school? Or is it just based on how naturally gifted they are. To answer these questions, we used a Kaggle Dataset that consists of 395 secondary student's scores in math and Portuguese language courses obtained through a survey. Along with this we are given information about the student's; age, sex, internet access, drinking habits, family situation, study habits and several other features. 
+
 
 ## Discussion 
 - You should pick and choose the most interesting findings of you research based on your 
@@ -36,6 +33,18 @@ repository is original and that all appropriate resources are rightfully cited.�
 
 
 # readme
-At the end, you should have a “traditional” readme section
-- This will outline any instructions needed to run and reproduce your results.
-just run the notebook idk
+<b>Installation:</b><br>
+Run on any linux distribution, was compiled on Ubuntu 20.04.
+
+<b>Requirements:</b><br>
+Python 3.8.2 or newer <br>
+seaborn               <br>
+NumPy                 <br>
+pandas                <br>
+Matplotlib            <br>
+scikit-learn          <br>
+
+<br>
+
+<b>Usage:</b><br>
+Having both student-por.csv and student-math.cvs in the root folder and dependencies installed open CSCI2000U-final-project.ipynb and select to run the whole notebook.
