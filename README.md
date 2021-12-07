@@ -1,4 +1,4 @@
-## What Drives Student Success In Math and Portuguese Language Courses
+## What Drives Student Success In Math and Language Courses
 
 ## About Us
 Adam Bunce     &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - [adam-bunce](https://github.com/adam-bunce)<br>
@@ -37,8 +37,6 @@ Let's take a look at parental influence in our dataset while also checking their
 Here we can see a general positive trend in the parents' education level and their student’s performance. However it is clear that the mother has more influence over the father when it comes to the students' education.
 
 
-<b> addsion end remove this once the bit hes working on rn is done </b>
-
 Does extra educational support affect grades? Surprisingly not. Infact, the average grade of students with no extra help was higher than the students who did have help. There could be a few reasons why this happened. The students that were confident in their studies are less likely to ask for extra help. While the students struggling in class would look for more educational support. Clearly even with the extra help, students aren’t able to improve their grades.
 
 ![image](https://user-images.githubusercontent.com/74341873/144948299-2dd21d13-b0fe-49f5-b0e5-9c3095ddc38f.png)
@@ -68,12 +66,17 @@ Students who didn’t drink much alcohol during weekends had a higher average th
 
 
 ## Conclusion
-- You should conclude your report.
-  - In the discussion, you are presenting the findings. In the conclusion you will 
-summarize what was discussed. To help you structure your conclusion:
-  - You should have a “Reflection” (list things you learned as you worked on 
-the project) and “Refinement” (if you were to improve the project, what 
-would be the next steps) subsection in the conclusion.
+<b>Reflection: </b><br>
+Generally having educated parents, drinking less alcohol, and attending more classes are all ways to improve your success as a student.
+Features that most increase students’ success are mothers' education level and hours they spent studying. 
+Features that most decrease students’ success are travel time, number of classes they have failed before, and the frequency with which they go out.
+
+
+
+<b>Refinement:</b> <br>
+If we were to improve the project, we could have chosen a better dataset that had more students surveyed. You would get more accurate results on what influences grades if more students were polled instead of just the ~400 in the current dataset. 
+We could also compare features to first and second period grades instead of only G3.
+
 
 ## Acknowledgements
 
