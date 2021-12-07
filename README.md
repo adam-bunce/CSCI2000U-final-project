@@ -46,6 +46,5 @@ Matplotlib            <br>
 scikit-learn          <br>
 
 <br>
-
 <b>Usage:</b><br>
 Having both student-por.csv and student-math.cvs in the root folder and dependencies installed open CSCI2000U-final-project.ipynb and select ">>" at the top of the notebook to run the whole notebook.
