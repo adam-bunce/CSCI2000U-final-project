@@ -26,6 +26,16 @@ What are the notable features we can identify in this graph? Here we can see str
 
 Looking at the more negative side of this graph, we see connections between the number of failures in the class and a student's final grades where if one fails they are more likely to fail again. This trend also relates to the students' age.
 
+Let's take a look at parental influence in our dataset while also checking their absences in the class. We are checking both parents' level of education and seeing if that plays a role in the student’s performance.
+
+
+![image](https://user-images.githubusercontent.com/74341873/144949542-07d7b5bb-d7ab-41c6-8a97-447d5b896c19.png)
+
+![image](https://user-images.githubusercontent.com/74341873/144949552-c02e0227-9622-4906-b4d4-6bbeac2b9e0f.png)
+
+
+Here we can see a general positive trend in the parents' education level and their student’s performance. However it is clear that the mother has more influence over the father when it comes to the students' education.
+
 
 <b> addsion end remove this once the bit hes working on rn is done </b>
 
