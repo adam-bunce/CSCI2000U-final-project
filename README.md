@@ -2,8 +2,8 @@
 
 ## About Us
 Adam Bunce     &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  - [adam-bunce](https://github.com/adam-bunce)<br>
-1234 Addison Tung  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; - [Elucris]( https://github.com/Elucris) <br>
-1234 Santhosh Chelvaranjan &nbsp; - [SanthoshC8]( https://github.com/SanthoshC8)<br>
+Addison Tung  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; - [Elucris]( https://github.com/Elucris) <br>
+Santhosh Chelvaranjan &nbsp; - [SanthoshC8]( https://github.com/SanthoshC8)<br>
 
 
 ## Introduction
