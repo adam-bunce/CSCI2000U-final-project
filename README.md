@@ -33,7 +33,7 @@ This project was submitted as the final course project for CSCI 2000U “Scienti
 Data Analysis” during Fall 2021. The authors certify that the work in this 
 repository is original.
 
-# readme
+# README
 <b>Installation:</b><br>
 Run on any linux distribution, was compiled on Ubuntu 20.04.
 
