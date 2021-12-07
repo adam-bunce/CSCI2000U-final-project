@@ -10,6 +10,8 @@ Santhosh Chelvaranjan &nbsp; - [SanthoshC8]( https://github.com/SanthoshC8)<br>
 What makes a student successful? Is it how long they study? How frequently do they skip school? Or is it just based on how naturally gifted they are. To answer these questions, we used a Kaggle Dataset that consists of 395 secondary student's scores in math and Portuguese language courses obtained through a survey. Along with this we are given information about the student's; age, sex, internet access, drinking habits, family situation, study habits and several other features. 
 
 
+
+
 ## Discussion 
 - You should pick and choose the most interesting findings of you research based on your 
 data analysis. You will offer evidence of those findings by adding selected information. 
@@ -26,11 +28,10 @@ the project) and “Refinement” (if you were to improve the project, what
 would be the next steps) subsection in the conclusion.
 
 ## Acknowledgements
--  You should add an acknowledgements section
-   - “This project was submitted as the final course project for CSCI 2000U “Scientific 
-Data Analysis” during Fall 2021. The authors certify that the work in this 
-repository is original and that all appropriate resources are rightfully cited.”
 
+This project was submitted as the final course project for CSCI 2000U “Scientific 
+Data Analysis” during Fall 2021. The authors certify that the work in this 
+repository is original.
 
 # readme
 <b>Installation:</b><br>
@@ -47,4 +48,4 @@ scikit-learn          <br>
 <br>
 
 <b>Usage:</b><br>
-Having both student-por.csv and student-math.cvs in the root folder and dependencies installed open CSCI2000U-final-project.ipynb and select to run the whole notebook.
+Having both student-por.csv and student-math.cvs in the root folder and dependencies installed open CSCI2000U-final-project.ipynb and select ">>" at the top of the notebook to run the whole notebook.
